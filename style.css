@@ -1,0 +1,142 @@
+
+*{
+    font-family: overpass;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: hsl(216, 12%, 8%);
+
+}
+.container {
+    margin: 0 auto;
+    width: 350px;
+    height: 350px;
+    background-color:hsl(213, 19%, 18%) ;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 240px;
+}
+.star {
+    background-color: hsl(213, 9%, 24%);
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 50%;
+}
+.titulo h1{
+    color: white;
+}
+.titulo p{
+    color: hsl(217, 12%, 63%);
+    font-size:15px;
+    line-height: 1.5rem;
+}
+#number {
+    display:contents;
+}
+#number-1 {
+    color: white;
+    margin-left: 10px;
+    margin-right: 5px;
+    display: inline-block;
+    text-align: center;
+    width: 50px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    background-color:hsl(213, 9%, 24%);
+    border-radius: 50%;
+    cursor: pointer;
+}
+#number-1:hover{
+    background-color: hsl(217, 12%, 63%);
+    transition: 0.8s;
+}
+#number-2 {
+    color: white;
+    margin-left: 10px;
+    margin-right: 5px;
+    display: inline-block;
+    text-align: center;
+    width: 50px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    background-color:hsl(213, 9%, 24%);
+    border-radius: 50%;
+    cursor: pointer;
+}
+#number-2:hover{
+    background-color: hsl(217, 12%, 63%);
+    transition: 0.8s;
+}
+#number-3 {
+    color: white;
+    margin-left: 10px;
+    margin-right: 5px;
+    display: inline-block;
+    text-align: center;
+    width: 50px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    background-color:hsl(213, 9%, 24%);
+    border-radius: 50%;
+    cursor: pointer;
+}
+#number-3:hover{
+    background-color: hsl(217, 12%, 63%);
+    transition: 0.8s;
+}
+#number-4 {
+    color: white;
+    margin-left: 10px;
+    margin-right: 5px;
+    display: inline-block;
+    text-align: center;
+    width: 50px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    background-color:hsl(213, 9%, 24%);
+    border-radius: 50%;
+    cursor: pointer;
+}
+#number-4:hover{
+    background-color: hsl(217, 12%, 63%);
+    transition: 0.8s;
+}
+#number-5 {
+    color: white;
+    margin-left: 10px;
+    margin-right: 5px;
+    display: inline-block;
+    text-align: center;
+    width: 50px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    background-color:hsl(213, 9%, 24%);
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+}
+#number-5:hover{
+    background-color: hsl(217, 12%, 63%);
+    transition: 0.8s;
+}
+.button{
+    padding: 15px 147px;
+    border-style: none;
+    border-radius: 40px;
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+    font-size: 15px;
+    margin-top: 25px;
+}
+.button:hover{
+    background-color: white;
+    color:  hsl(25, 97%, 53%);
+    transition: 0.8s;
+}
+.button a{
+    transition: all 0.8s;
+}

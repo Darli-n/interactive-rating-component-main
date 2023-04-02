@@ -1,0 +1,43 @@
+*{
+    font-family: overpass;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: hsl(216, 12%, 8%);
+
+}
+.container {
+    margin: 0 auto;
+    width: 350px;
+    height: 350px;
+    background-color:hsl(213, 19%, 18%) ;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 240px;
+    text-align: center;
+}
+.img{
+    margin-top: 15px;
+}
+.text1{
+height: 35px;
+width: 220px;
+text-align: center;
+justify-content: center;
+align-items: center;
+margin-left: 65px;
+background-color: hsl(213, 9%, 24%);
+border-radius: 20px;
+}
+.text1 h3{
+    padding-top: 8px;
+    color:  hsl(25, 97%, 53%);
+}
+.principal-text h1{
+color: white;
+}
+.principal-text p{
+    color: hsl(217, 12%, 63%);
+    font-size: 15px;
+}
